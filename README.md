@@ -1,4 +1,4 @@
-# TestPlayableAds
+# PlayableAdsSample
 
 Technical test of a Unity playable ad: a simple sliding puzzle (taquin) exported with the **Unity Playworks (Luna) plugin**.
 
